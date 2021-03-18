@@ -7,3 +7,5 @@ dict['Sosmed3'] = 'ig:@indenture20'
 del dict['Makanan3']
 del dict['Makanan2']
 dict['Hobi4'] = 'Poker'
+
+print(dict)
