@@ -1,5 +1,5 @@
 # List 10 teman
-teman = ['Bagus','Rio','Gea','Ara','Sasa','Rizal','Iqbal','Reza','Alif','Dito']
+teman = ['Bagus','Rio','Gea','Ara','Sasa','Rizal','Iqbal','Reza','Alip','Dito']
 
 # Menampilkan list indeks nomor 4,6, dan 7
 print("List indeks nomor 4,6, dan 7 adalah",teman[4],",",teman[6],", dan",teman[7])
